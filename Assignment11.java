@@ -1,6 +1,6 @@
 /*Assignment - 11
 Program 1 : WAP to get expected output.
-String input = "TeCHn#oc4re1di-tS";
+String input = "TeCHn#oc4re1di-tS"; 
 output : 41TCHSenocredit
 Hint : Digit+UC+LC
 Program 2 : WAP to return reverse string.
