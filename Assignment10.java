@@ -7,7 +7,7 @@ output : e -> 2
 Program 2: WAP to find frequency of all characters from given string.
 input : word -> technocredits
 output : t -> 2
-         e -> 2
+         e -> 2 
 		 c -> 2
 		 h -> 1
 		 n -> 1
