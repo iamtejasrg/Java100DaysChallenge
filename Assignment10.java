@@ -1,5 +1,5 @@
 /*
- * Assignment - 10 
+ * Assignment - 10  
 Program 1: Write a program to find frequency of given character from given string.
 input : word -> technocredits
         ch -> e
