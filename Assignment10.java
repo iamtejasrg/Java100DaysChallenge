@@ -2,7 +2,7 @@
  * Assignment - 10 
 Program 1: Write a program to find frequency of given character from given string.
 input : word -> technocredits
-        ch -> e
+        ch -> e  
 output : e -> 2
 Program 2: WAP to find frequency of all characters from given string.
 input : word -> technocredits
